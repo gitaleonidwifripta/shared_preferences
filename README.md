@@ -1,1 +1,9 @@
-# shared_preferences
+Nama : Sitti Mahmudah
+
+NIM : E41201553
+
+Prodi : Teknik Informatika
+
+Gol : B Bondowoso
+
+TUGAS Workshop Mobile Applications MINGGU 9 (Shared Preferences)
